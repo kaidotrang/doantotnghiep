@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "408750756127",
+    "firebase_url": "https://datn-e4f61-default-rtdb.firebaseio.com",
+    "project_id": "datn-e4f61",
+    "storage_bucket": "datn-e4f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408750756127:android:a5121fa8d21b38096ce02a",
+        "android_client_info": {
+          "package_name": "com.example.datn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJQa6OFElt-If2ifgb_4Bi0IHYAtkYAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
